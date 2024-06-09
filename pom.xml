@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>com.facebook.business.sdk</groupId>
+    <artifactId>facebook-java-business-sdk</artifactId>
+    <version>12.0.0</version>
+</dependency>
